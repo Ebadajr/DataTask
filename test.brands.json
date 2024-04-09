@@ -1,0 +1,287 @@
+[{
+  "_id": {
+    "$oid": "66069ff93007b006635c0245"
+  },
+  "brandName": "Ward, Hand and Ortiz",
+  "yearCreated": "1970",
+  "headquarters": "Jastside",
+  "numberOfLocations": 2132,
+  "updatedAt": {
+    "$date": "2024-04-09T10:18:16.702Z"
+  },
+  "yearFounded": 1970
+},
+{
+  "_id": {
+    "$oid": "66069ff93007b006635c0246"
+  },
+  "brandName": "Ergonomic Frozen Bacon",
+  "yearFounded": 1600,
+  "headquarters": "Gavinstead",
+  "numberOfLocations": 1,
+  "updatedAt": {
+    "$date": "2024-04-09T10:31:42.379Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66069ff93007b006635c0247"
+  },
+  "brandName": "Breitenberg, Greenholt and Ledner",
+  "yearFounded": 1982,
+  "headquarters": "Fort Lenna",
+  "numberOfLocations": 1000
+},
+{
+  "_id": {
+    "$oid": "66069ff93007b006635c0248"
+  },
+  "brandName": "Modern Granite Fish",
+  "yearFounded": 1970,
+  "yearCreated": "1970",
+  "headquarters": "Kundebury",
+  "numberOfLocations": 1,
+  "updatedAt": {
+    "$date": "2024-04-09T10:31:42.645Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66069ff93007b006635c0249"
+  },
+  "brandName": "Gorgeous Granite Pizza",
+  "headquarters": "Jonesborough",
+  "numberOfLocations": 1,
+  "yearsFounded": "1980",
+  "updatedAt": {
+    "$date": "2024-04-09T10:31:42.768Z"
+  },
+  "yearFounded": 1980
+},
+{
+  "_id": {
+    "$oid": "66069ff93007b006635c024a"
+  },
+  "brandName": "Oriental Plastic Pants",
+  "yearFounded": 1970,
+  "yearCreated": 1970,
+  "headquarters": "Wardfort",
+  "numberOfLocations": 1,
+  "updatedAt": {
+    "$date": "2024-04-09T10:31:42.889Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66069ff93007b006635c024b"
+  },
+  "brandName": "Refined Granite Towels",
+  "yearFounded": 1600,
+  "headquarters": "Lemkeland",
+  "numberOfLocations": 1,
+  "updatedAt": {
+    "$date": "2024-04-09T10:31:43.017Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66069ff93007b006635c024c"
+  },
+  "brandName": "Corkery Inc",
+  "yearFounded": 1935,
+  "numberOfLocations": 9200,
+  "hqAddress": "DuBuqueburgh",
+  "brand": {},
+  "headquarters": "DuBuqueburgh",
+  "updatedAt": {
+    "$date": "2024-04-09T10:31:43.149Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66069ff93007b006635c024d"
+  },
+  "yearFounded": 1600,
+  "headquarters": "West Mylesboro",
+  "numberOfLocations": 1,
+  "brand": {
+    "name": "Licensed Concrete Tuna"
+  },
+  "brandName": "Licensed Concrete Tuna",
+  "updatedAt": {
+    "$date": "2024-04-09T10:51:59.893Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66069ff93007b006635c024e"
+  },
+  "brandName": "Generic Cotton Pizza",
+  "yearFounded": 1600,
+  "headquarters": "North Ralphport",
+  "numberOfLocations": 1,
+  "brand": "",
+  "updatedAt": {
+    "$date": "2024-04-09T10:45:01.842Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "661527d63a7a87487987c052"
+  },
+  "brandName": "Kulas and Sons",
+  "yearFounded": 1852,
+  "headquarters": "West Jodiestead",
+  "numberOfLocations": 830,
+  "createdAt": {
+    "$date": "2024-04-09T11:34:46.670Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-09T11:34:46.670Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661527d63a7a87487987c055"
+  },
+  "brandName": "Wilderman, Hoeger and Klein",
+  "yearFounded": 1942,
+  "headquarters": "Felixberg",
+  "numberOfLocations": 440,
+  "createdAt": {
+    "$date": "2024-04-09T11:34:46.955Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-09T11:34:46.955Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661527d73a7a87487987c058"
+  },
+  "brandName": "Heller - Adams",
+  "yearFounded": 1761,
+  "headquarters": "Cruzmouth",
+  "numberOfLocations": 742,
+  "createdAt": {
+    "$date": "2024-04-09T11:34:47.331Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-09T11:34:47.331Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661527d73a7a87487987c05b"
+  },
+  "brandName": "Daugherty - Tremblay",
+  "yearFounded": 1644,
+  "headquarters": "Port Leonorworth",
+  "numberOfLocations": 813,
+  "createdAt": {
+    "$date": "2024-04-09T11:34:47.656Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-09T11:34:47.656Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661527d73a7a87487987c05e"
+  },
+  "brandName": "VonRueden LLC",
+  "yearFounded": 1618,
+  "headquarters": "Sawaynbury",
+  "numberOfLocations": 767,
+  "createdAt": {
+    "$date": "2024-04-09T11:34:47.940Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-09T11:34:47.940Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661527d83a7a87487987c061"
+  },
+  "brandName": "Hackett - Thiel",
+  "yearFounded": 2000,
+  "headquarters": "Port Elwynshire",
+  "numberOfLocations": 20,
+  "createdAt": {
+    "$date": "2024-04-09T11:34:48.254Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-09T11:34:48.254Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661527d83a7a87487987c064"
+  },
+  "brandName": "Jerde Inc",
+  "yearFounded": 1981,
+  "headquarters": "Noblesville",
+  "numberOfLocations": 1975,
+  "createdAt": {
+    "$date": "2024-04-09T11:34:48.544Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-09T11:34:48.544Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661527d83a7a87487987c067"
+  },
+  "brandName": "Barton - Reilly",
+  "yearFounded": 1762,
+  "headquarters": "Kautzerside",
+  "numberOfLocations": 336,
+  "createdAt": {
+    "$date": "2024-04-09T11:34:48.846Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-09T11:34:48.846Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661527d93a7a87487987c06a"
+  },
+  "brandName": "Rau - Grimes",
+  "yearFounded": 1942,
+  "headquarters": "South Donnyborough",
+  "numberOfLocations": 1006,
+  "createdAt": {
+    "$date": "2024-04-09T11:34:49.155Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-09T11:34:49.155Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661527d93a7a87487987c06d"
+  },
+  "brandName": "Hintz, Heathcote and Abbott",
+  "yearFounded": 1636,
+  "headquarters": "Leilanimouth",
+  "numberOfLocations": 100,
+  "createdAt": {
+    "$date": "2024-04-09T11:34:49.444Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-09T11:34:49.444Z"
+  },
+  "__v": 0
+}]
